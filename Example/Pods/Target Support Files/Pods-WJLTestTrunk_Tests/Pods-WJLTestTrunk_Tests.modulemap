@@ -1,0 +1,6 @@
+framework module Pods_WJLTestTrunk_Tests {
+  umbrella header "Pods-WJLTestTrunk_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
